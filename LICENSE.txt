@@ -1,0 +1,9 @@
+Copyright (C) 2025 M-Society
+This program is free software: you can redistribute and / or modify it under the terms of the GNU General Public License published by the Free Software Foundation, either version 3 of the License, or (depending on your choice) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; even without the implicit guarantee of TRADE or IDONEY FOR A PARTICULAR PURPOSE. Consult the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, visit https://www.gnu.org/licenses/.
+
+Note on the original code (Campish)
+This project is a recoded and adapted version of the original script known as Campish. All new code written in this version is under GPLv3, as is any derivative of it.
