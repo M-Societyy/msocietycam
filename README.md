@@ -25,7 +25,7 @@
 - Conexión a Internet
 
 ```bash
-git clone https://github.com/tu-usuario/msocietycam.git
+git clone https://github.com/M-Societyy/msocietycam
 cd msocietycam
 chmod +x msocietycam.sh
 ```
