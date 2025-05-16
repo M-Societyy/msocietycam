@@ -27,7 +27,7 @@
 ```bash
 git clone https://github.com/M-Societyy/msocietycam
 cd msocietycam
-chmod +x msocietycam.sh
+bash msocietycam.sh
 ```
 
 ---
